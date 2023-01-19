@@ -1,0 +1,1 @@
+    final static String regularExpression = "^0*1(0)*$"
